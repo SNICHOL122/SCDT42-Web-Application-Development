@@ -1,0 +1,35 @@
+*{
+    font-family: 'Arial';
+    text-align: center;
+}
+
+body {
+    background-color: forestgreen;
+}
+
+main {
+    width: 75%;
+    margin: auto;
+}
+
+
+p{
+    font-size: 25px;
+}
+
+h1{
+    font-family: 'Times New Roman';
+    font-size: 72px;
+
+}
+
+section {
+    background-color: white;
+    margin-bottom: 5%;
+}
+
+
+.textWhiteBackBlack {
+    color: white;
+    background-color: black;
+}
