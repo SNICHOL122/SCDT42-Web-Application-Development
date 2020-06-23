@@ -1,0 +1,20 @@
+.bg-custom{
+    background-color: aqua;
+}
+
+.navfont{
+    font-family: Times New Roman;
+}
+.navbar-custom a{
+    color: black;
+}
+.btn-outline-success {
+    color: black;
+    border-color: red; 
+    !important
+}
+.Simbatron{
+	margin-top:60px;
+	font-family:Niagara Solid;
+	font-size:85px;
+}
